@@ -15,19 +15,15 @@
 
 ---
 
-💻 **Full-Stack Developer | Building Web + AI Applications | Exploring AI Technologies**  
-⚙️ Builds apps, breaks them, fixes them again  
-🤖 Passionate about Web Development + AI-driven applications
+<div align="center">
 
-<!--
-**Suhaas22/Suhaas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+💻 <b>Full-Stack Developer | Web & AI Applications</b>  
+🔭 React · Django · REST APIs · Databases  
+🧠 Machine Learning & Deep Learning — Neural Networks, CNN, RNN, Recommender Systems  
+🤖 AI Model Integration · Full-Stack Architecture · Backend Development
 
-- 🔭 I build full-stack web applications using **React**, **Django**, and **APIs**  
-- 🧠 Experienced in **ML/DL**, including **Neural Networks, CNN, RNN**, and **Recommender Systems**  
-- 👯 I enjoy collaborating on meaningful tech projects, hackathons, and AI integrations  
-- 💬 Ask me about **Full-Stack Development**, **ML/DL fundamentals**, **AI model integration**, or **Databases**  
-- ⚡ Fun fact: Debugging AI models and backend code requires the same level of patience 😅  
+</div>
+
 
 
 ---
