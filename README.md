@@ -85,10 +85,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suhaas22&show_icons=true&theme=tokyonight" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suhaas22&show_icons=true&theme=tokyonight" height="165" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaas22&layout=compact&theme=tokyonight" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaas22&layout=compact&theme=tokyonight" height="165" />
 </div>
+
 
 
 
