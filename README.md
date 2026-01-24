@@ -5,14 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="www.linkedin.com/in/suhaas-bommadevara">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:bommadevarasuhaas7@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/Suhaas22">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
