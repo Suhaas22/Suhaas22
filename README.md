@@ -1,8 +1,9 @@
 ## Hi there👋, I'm Suhaas Bommadevara!
 
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Skilled+in+React+%26+Django; Exploring+AI+Technologies+%F0%9F%A4%96;Building+Web+%2B+AI+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Skilled+in+React+%26+Django;Exploring+AI+Technologies+%F0%9F%A4%96;Building+Web+%2B+AI+Applications" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suhaas-bommadevara">
