@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Suhaas
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;ML+%26+DL+Completed+%F0%9F%A7%A0;Exploring+AI+Technologies+%F0%9F%A4%96;React+%2B+Django+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Skilled+in+React+%26+Django;Exploring+AI+Technologies+%F0%9F%A4%96" />
 </p>
 
 <p align="center">
