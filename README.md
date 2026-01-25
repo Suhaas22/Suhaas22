@@ -7,12 +7,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suhaas-bommadevara">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bommadevarasuhaas7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=SuhaasBommadevara&style=for-the-badge&color=0A66C2" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/SuhaasBommadevara?style=for-the-badge&logo=github&color=181717" />
+</p>
+
 
 ---
 
