@@ -70,7 +70,6 @@
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square"/>
 
 <!-- 🧠 Programming & DSA -->
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A0A0A?style=flat-square"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
