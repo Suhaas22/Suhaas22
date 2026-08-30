@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Suhaas Bommadevara 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Data+%2B+AI+Enthusiast;Building+Web+%2B+ML+Applications;B.Tech+CSE+%40+IIIT+Sri+City" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:38BDF8&height=200&section=header&text=Suhaas%20Bommadevara&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20%2B%20AI%20Enthusiast&descAlignY=55&descSize=18" />
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Data+%2B+AI+Enthusiast;Building+Web+%2B+ML+Applications;B.Tech+CSE+%40+IIIT+Sri+City" />
+
+<p>
   <a href="https://www.linkedin.com/in/suhaas-bommadevara">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -16,7 +16,11 @@
   </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=Suhaas22&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=2" />
 
 ### 👨‍💻 About Me
 
@@ -27,7 +31,7 @@
 - 🏆 Hackathon builder — Top 5/100+ at a 48-hour AI hackathon for **NeoHire**, an AI-powered interview bot
 - 📚 Completed the **ML Specialization** and **Deep Learning Specialization** (Coursera / DeepLearning.AI)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=2" />
 
 ### 🛠️ Tech Stack
 
@@ -70,7 +74,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=2" />
 
 ### 💼 Work Experience
 
@@ -79,7 +83,7 @@
 - Built 3 Power BI dashboards (financial analysis, investor insights, performance tracking) for stakeholder decision-making
 - Designed a financial intelligence system spanning data engineering, analytics, and web layers — from raw ingestion to executive-ready reporting
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=2" />
 
 ### 🚀 Featured Projects
 
@@ -105,7 +109,7 @@
 - 12 REST API endpoints across product listing, cart, and auth modules with JWT + refresh token session management
 - Star-schema PostgreSQL backend, deployed on Render and Vercel
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=2" />
 
 ### 🏆 Leadership & Achievements
 
@@ -113,18 +117,9 @@
 - **Top 5 / 100+ teams** — NeoHire AI Hackathon (48 hrs), ₹2,000 prize for an AI-powered interview bot
 - ML Specialization (3 courses) & Deep Learning Specialization (5 courses) — DeepLearning.AI / Coursera
 
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suhaas22&show_icons=true&theme=tokyonight" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhaas22&layout=compact&theme=tokyonight" height="165" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0A66C2&height=120&section=footer" />
 
----
-
-<p align="center">
 📫 Reach me at <b>bommadevarasuhaas7@gmail.com</b> — always open to SDE and ML/AI internship opportunities!
-</p>
+
+</div>
