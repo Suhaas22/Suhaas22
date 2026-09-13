@@ -22,20 +22,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=2" />
 
-### 👨‍💻 About Me
+### <img src="https://img.icons8.com/fluency-systems-filled/24/0A66C2/user.png" width="20" height="20" /> About Me
 
-- 🎓 B.Tech in Computer Science Engineering at **IIIT Sri City** (2024–2028), CGPA 8.3/10
-- 💼 Currently a **Data Analyst Intern @ BlueStock Fintech**, building ETL pipelines and financial intelligence systems on Nifty 100 equity data
-- 🌱 Deep into **Machine Learning, Deep Learning, and full-stack development**
-- 🧩 Active core member at **Google Developer Groups (GDG), IIIT Sri City** — co-organized workshops reaching 150+ attendees
-- 🏆 Hackathon builder — Top 5/100+ at a 48-hour AI hackathon for **NeoHire**, an AI-powered interview bot
-- 📚 Completed the **ML Specialization** and **Deep Learning Specialization** (Coursera / DeepLearning.AI)
+* <img src="https://img.icons8.com/fluency-systems-filled/20/0A66C2/graduation-cap.png" width="18" height="18" /> B.Tech in Computer Science Engineering at **IIIT Sri City** (2024–2028), CGPA 8.3/10
+* <img src="https://img.icons8.com/fluency-systems-filled/20/0A66C2/briefcase.png" width="18" height="18" /> Currently a **Data Analyst Intern @ BlueStock Fintech**, building ETL pipelines and financial intelligence systems on Nifty 100 equity data
+* <img src="https://img.icons8.com/fluency-systems-filled/20/0A66C2/seedling.png" width="18" height="18" /> Deep into **Machine Learning, Deep Learning, and full-stack development**
+* <img src="https://img.icons8.com/fluency-systems-filled/20/0A66C2/puzzle.png" width="18" height="18" /> Active core member at **Google Developer Groups (GDG), IIIT Sri City** — co-organized workshops reaching 150+ attendees
+* <img src="https://img.icons8.com/fluency-systems-filled/20/0A66C2/trophy.png" width="18" height="18" /> Hackathon builder — Top 5/100+ at a 48-hour AI hackathon for **NeoHire**, an AI-powered interview bot
+* <img src="https://img.icons8.com/fluency-systems-filled/20/0A66C2/books.png" width="18" height="18" /> Completed the **ML Specialization** and **Deep Learning Specialization** (Coursera / DeepLearning.AI)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=2" />
 
-### 🛠️ Tech Stack
+### <img src="https://img.icons8.com/fluency-systems-filled/24/0A66C2/development-skill.png" width="20" height="20" /> Tech Stack
 
 **Languages**
+
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -46,6 +47,7 @@
 </p>
 
 **Web Development**
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -56,6 +58,7 @@
 </p>
 
 **Databases & Tools**
+
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -67,6 +70,7 @@
 </p>
 
 **AI / ML**
+
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -76,50 +80,55 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=2" />
 
-### 💼 Work Experience
+### <img src="https://img.icons8.com/fluency-systems-filled/24/0A66C2/briefcase.png" width="20" height="20" /> Work Experience
 
 **Data Analyst Intern — BlueStock Fintech** (Jun 2026 – Present, Remote)
-- Engineered production-grade ETL pipelines ingesting financial data for Nifty 100 companies into a PostgreSQL star-schema data warehouse
-- Built 3 Power BI dashboards (financial analysis, investor insights, performance tracking) for stakeholder decision-making
-- Designed a financial intelligence system spanning data engineering, analytics, and web layers — from raw ingestion to executive-ready reporting
+
+* Engineered production-grade ETL pipelines ingesting financial data for Nifty 100 companies into a PostgreSQL star-schema data warehouse
+* Built 3 Power BI dashboards (financial analysis, investor insights, performance tracking) for stakeholder decision-making
+* Designed a financial intelligence system spanning data engineering, analytics, and web layers — from raw ingestion to executive-ready reporting
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=2" />
 
-### 🚀 Featured Projects
+### <img src="https://img.icons8.com/fluency-systems-filled/24/0A66C2/rocket.png" width="20" height="20" /> Featured Projects
 
 **[ResuMatch](https://github.com/Suhaas22) — AI-Powered Resume Analyzer**
 `Python` `NLP` `Django REST` `React` `Chrome Extension`
-- End-to-end NLP pipeline using TF-IDF + Cosine Similarity; 84.8% pairwise ranking accuracy across 2,484 resumes in 24 industries
-- Chrome Extension auto-extracting job descriptions from LinkedIn/Naukri with real-time match scoring and skills-gap analysis
-- Deployed via Gunicorn WSGI on Render, React frontend on Vercel
+
+* End-to-end NLP pipeline using TF-IDF + Cosine Similarity; 84.8% pairwise ranking accuracy across 2,484 resumes in 24 industries
+* Chrome Extension auto-extracting job descriptions from LinkedIn/Naukri with real-time match scoring and skills-gap analysis
+* Deployed via Gunicorn WSGI on Render, React frontend on Vercel
 
 **Nifty 100 Financial Intelligence Platform** *(Ongoing)*
 `Python` `FastAPI` `SQLite` `Streamlit`
-- Full-stack analytics platform covering 92 Nifty 100 companies — screener, peer comparison, valuation, and portfolio modules
-- REST API layer with 269 passing integration tests; added a thread-safe TTL cache cutting concurrent-call latency from ~3s to ~0.09s
-- Automated PDF reporting: per-company tearsheets, sector reports, and a 92-page portfolio summary via ReportLab
+
+* Full-stack analytics platform covering 92 Nifty 100 companies — screener, peer comparison, valuation, and portfolio modules
+* REST API layer with 269 passing integration tests; added a thread-safe TTL cache cutting concurrent-call latency from ~3s to ~0.09s
+* Automated PDF reporting: per-company tearsheets, sector reports, and a 92-page portfolio summary via ReportLab
 
 **Handwriting Recognition — RL & Computer Vision** *(Ongoing)*
 `Python` `Reinforcement Learning` `OpenCV` `TensorFlow`
-- Designing an RL agent framing character segmentation as a sequential decision-making problem with learned reward shaping
-- Built a CV preprocessing pipeline (binarization, contour detection, feature extraction); ~85–90% precision on clean segmentation cases on IAM/EMNIST
+
+* Designing an RL agent framing character segmentation as a sequential decision-making problem with learned reward shaping
+* Built a CV preprocessing pipeline (binarization, contour detection, feature extraction); ~85–90% precision on clean segmentation cases on IAM/EMNIST
 
 **Techronyx — Full-Stack E-Commerce Platform**
 `React` `Django` `PostgreSQL` `JWT`
-- 12 REST API endpoints across product listing, cart, and auth modules with JWT + refresh token session management
-- Star-schema PostgreSQL backend, deployed on Render and Vercel
+
+* 12 REST API endpoints across product listing, cart, and auth modules with JWT + refresh token session management
+* Star-schema PostgreSQL backend, deployed on Render and Vercel
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:38BDF8&height=2" />
 
-### 🏆 Leadership & Achievements
+### <img src="https://img.icons8.com/fluency-systems-filled/24/0A66C2/trophy.png" width="20" height="20" /> Leadership & Achievements
 
-- **App Dev Core Member, Google Developer Groups (GDG)** — IIIT Sri City (Jan 2025 – Present); built full-stack apps and co-organized 2 workshops for 150+ attendees
-- **Top 5 / 100+ teams** — NeoHire AI Hackathon (48 hrs), ₹2,000 prize for an AI-powered interview bot
-- ML Specialization (3 courses) & Deep Learning Specialization (5 courses) — DeepLearning.AI / Coursera
+* **App Dev Core Member, Google Developer Groups (GDG)** — IIIT Sri City (Jan 2025 – Present); built full-stack apps and co-organized 2 workshops for 150+ attendees
+* **Top 5 / 100+ teams** — NeoHire AI Hackathon (48 hrs), ₹2,000 prize for an AI-powered interview bot
+* ML Specialization (3 courses) & Deep Learning Specialization (5 courses) — DeepLearning.AI / Coursera
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0A66C2&height=120&section=footer" />
 
-📫 Reach me at <b>bommadevarasuhaas7@gmail.com</b> — always open to SDE and ML/AI internship opportunities!
+<img src="https://img.icons8.com/fluency-systems-filled/20/ffffff/new-post.png" width="18" height="18" /> Reach me at <b>[bommadevarasuhaas7@gmail.com](mailto:bommadevarasuhaas7@gmail.com)</b> — always open to SDE and ML/AI internship opportunities!
 
 </div>
