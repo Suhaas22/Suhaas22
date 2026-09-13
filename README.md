@@ -82,7 +82,7 @@
 
 ### <img src="https://img.icons8.com/fluency-systems-filled/24/0A66C2/briefcase.png" width="20" height="20" /> Work Experience
 
-**Data Analyst Intern — BlueStock Fintech** (Jun 2026 – Present, Remote)
+**Data Analyst Intern — BlueStock Fintech** (Jun 2026 – Aug 2026, Remote)
 
 * Engineered production-grade ETL pipelines ingesting financial data for Nifty 100 companies into a PostgreSQL star-schema data warehouse
 * Built 3 Power BI dashboards (financial analysis, investor insights, performance tracking) for stakeholder decision-making
